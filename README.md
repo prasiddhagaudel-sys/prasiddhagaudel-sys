@@ -4,26 +4,55 @@
 
 <br/>
 
-### 👨‍💻 Quick Overview
+<h3 align="center">✦ 👨‍💻 Executive Overview ✦</h3>
 
-I am a forward-thinking **Engineering Student and Software Developer** based in Nepal 🇳🇵. I focus on bridging the gap between software and real-world hardware.
+<div align="center">
+  <i>"Electronics & Communication Engineering by day, Software Developer by passion."</i>
+</div>
 
-*   **📱 Mobile & Web:** Building high-performance, cross-platform applications using Flutter.
-*   **🧠 Artificial Intelligence:** Implementing data science models and machine learning pipelines.
-*   **🤖 Hardware & Robotics:** Prototyping autonomous systems with ESP32 and C++.
-*   **🌱 Philosophy:** Continuous learning through relentless building.
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3 align="center">📱 Mobile Arc</h3>
+      <p align="center">Architecting high-performance, cross-platform apps with <b>Flutter & Dart</b>.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3 align="center">🧠 AI & Data</h3>
+      <p align="center">Implementing <b>machine learning</b> pipelines and deep data science models.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3 align="center">🤖 Robotics</h3>
+      <p align="center">Prototyping autonomous hardware systems using <b>ESP32 & C++</b>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack & Tools
+<h3 align="center">💻 Tech Stack & Tools</h3>
 
-<div align="center">
-  
-| 🌐 Languages & Frameworks | 🧰 Tools & Platforms |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=dart,flutter,python,tensorflow,cpp,java,php,js,html,css&theme=dark&perline=5" alt="Core Stack" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino,firebase,figma,linux,mysql&theme=dark&perline=5" alt="Tools & DB" /> |
+<br/>
 
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="35%" align="right"><b>🌐 Core Languages</b></td>
+    <td width="65%" align="left"><img src="https://skillicons.dev/icons?i=dart,python,cpp,java,php,js,html,css&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td width="35%" align="right"><b>📱 Frameworks & Libs</b></td>
+    <td width="65%" align="left"><img src="https://skillicons.dev/icons?i=flutter,tensorflow&theme=dark" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td width="35%" align="right"><b>🧰 Tools & Platforms</b></td>
+    <td width="65%" align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino,figma,linux&theme=dark" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td width="35%" align="right"><b>💾 Databases & Cloud</b></td>
+    <td width="65%" align="left"><img src="https://skillicons.dev/icons?i=firebase,mysql&theme=dark" alt="Databases" /></td>
+  </tr>
+</table>
 
 ---
 
