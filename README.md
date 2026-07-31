@@ -6,7 +6,10 @@
 
 <h3 align="center">✦ 👨‍💻 Executive Overview ✦</h3>
 
+I am an **Electronics and Communication Engineering Student** based in Nepal 🇳🇵, and **Software Development is my true passion**. My primary goal is bridging the gap between intelligent software and real-world hardware.
+
 <div align="center">
+  <br/>
   <i>"Electronics & Communication Engineering by day, Software Developer by passion."</i>
 </div>
 
