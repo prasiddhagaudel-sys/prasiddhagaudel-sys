@@ -1,12 +1,14 @@
-# ⚡ Prasiddha Gaudel
-
-<a href="https://github.com/prasiddhagaudel-sys">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=58a6ff&vCenter=true&width=600&height=30&lines=>_+Software+Engineer+based+in+Nepal+🇳🇵;>_+Building+cross-platform+apps+with+Flutter;>_+Tinkering+with+AI+and+Robotics;>_+Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="./assets/animated_header.svg" alt="Prasiddha Gaudel" width="100%" />
+</div>
 
 <br/>
 
-I am a forward-thinking **Engineering Student and Software Developer** specializing in robust, scalable applications. I have a deep passion for integrating **Artificial Intelligence** with practical software solutions and bridging the gap between software and hardware through **Robotics**.
+### 👨‍💻 Quick Overview
+
+I am a forward-thinking **Engineering Student and Software Developer** based in Nepal 🇳🇵. I specialize in building robust, scalable cross-platform applications and have a deep passion for integrating **Artificial Intelligence** with practical software solutions. 
+
+**My Philosophy:** *Continuous learning through relentless building.*
 
 ---
 
@@ -21,14 +23,14 @@ I am a forward-thinking **Engineering Student and Software Developer** specializ
 
 ---
 
-### 📈 GitHub Activity & Contributions
+### 📈 GitHub Activity (Tetris Contribution Grid)
 
-**Contribution Chart**
+*A custom, local animation simulating my GitHub activity blocks dropping into place.*
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasiddhagaudel-sys&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="./assets/tetris_graph.svg" alt="Tetris Contribution Graph" width="100%" />
 </p>
 
-**Profile Analytics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasiddhagaudel-sys&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=prasiddhagaudel-sys&theme=github-dark&hide_border=true&ring=58a6ff&fire=58a6ff" alt="GitHub Streak" width="48%" />
@@ -59,8 +61,4 @@ I am a forward-thinking **Engineering Student and Software Developer** specializ
   <a href="https://github.com/prasiddhagaudel-sys">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=prasiddhagaudel-sys&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
