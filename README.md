@@ -6,29 +6,31 @@
 
 ### 👨‍💻 Quick Overview
 
-I am a forward-thinking **Engineering Student and Software Developer** based in Nepal 🇳🇵. I specialize in building robust, scalable cross-platform applications and have a deep passion for integrating **Artificial Intelligence** with practical software solutions. 
+I am a forward-thinking **Engineering Student and Software Developer** based in Nepal 🇳🇵. I focus on bridging the gap between software and real-world hardware.
 
-**My Philosophy:** *Continuous learning through relentless building.*
+*   **📱 Mobile & Web:** Building high-performance, cross-platform applications using Flutter.
+*   **🧠 Artificial Intelligence:** Implementing data science models and machine learning pipelines.
+*   **🤖 Hardware & Robotics:** Prototyping autonomous systems with ESP32 and C++.
+*   **🌱 Philosophy:** Continuous learning through relentless building.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,tensorflow,cpp,java,php,js,html,css&theme=dark" alt="Core Stack" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino,firebase,figma,linux,mysql&theme=dark" alt="Tools & DB" />
-</p>
+<div align="center">
+  
+| 🌐 Languages & Frameworks | 🧰 Tools & Platforms |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=dart,flutter,python,tensorflow,cpp,java,php,js,html,css&theme=dark&perline=5" alt="Core Stack" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino,firebase,figma,linux,mysql&theme=dark&perline=5" alt="Tools & DB" /> |
+
+</div>
 
 ---
 
-### 📈 GitHub Activity (Tetris Contribution Grid)
-
-*A custom, local animation simulating my GitHub activity blocks dropping into place.*
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="./assets/tetris_graph.svg" alt="Tetris Contribution Graph" width="100%" />
+  <img src="./assets/tetris_graph.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -51,14 +53,16 @@ I am a forward-thinking **Engineering Student and Software Developer** based in 
 
 ### 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:prasiddhagaudel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/btn_email.svg" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prasiddha-gaudel-231434381/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/btn_linkedin.svg" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/prasiddhagaudel-sys">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="./assets/btn_github.svg" alt="GitHub" />
   </a>
 </p>

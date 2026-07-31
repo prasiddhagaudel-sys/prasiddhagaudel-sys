@@ -1,0 +1,41 @@
+<svg width="180" height="50" viewBox="0 0 180 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .btn { fill: #0d1117; stroke: #0077B5; stroke-width: 2; rx: 8; }
+      .text { font: bold 16px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .icon { fill: #0077B5; }
+      
+      .shine { fill: url(#shineGrad); opacity: 0; animation: pass 4s infinite 1.3s; }
+      @keyframes pass {
+        0% { transform: translateX(-180px) skewX(-20deg); opacity: 0.5; }
+        20% { transform: translateX(250px) skewX(-20deg); opacity: 0.5; }
+        100% { transform: translateX(250px) skewX(-20deg); opacity: 0; }
+      }
+      
+      .glow-border { animation: pulse 2s infinite alternate 0.5s; }
+      @keyframes pulse {
+        0% { stroke: #0077B5; stroke-width: 2; filter: drop-shadow(0 0 2px #0077B5); }
+        100% { stroke: #00a0dc; stroke-width: 3; filter: drop-shadow(0 0 8px #0077B5); }
+      }
+    </style>
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Button Body -->
+  <rect x="3" y="3" width="174" height="44" class="btn glow-border" />
+  
+  <!-- LinkedIn Icon (24x24) -->
+  <g transform="translate(18, 13)">
+    <path class="icon" d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="55" y="31" class="text">LinkedIn</text>
+  
+  <!-- Overlay Shine -->
+  <rect x="3" y="3" width="174" height="44" rx="8" class="shine" style="pointer-events: none;" />
+</svg>
